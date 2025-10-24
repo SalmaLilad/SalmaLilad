@@ -1,11 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Saanvi</h1>
+<p align="center">
+  <strong>Student | AI & Machine Learning Enthusiast | Researcher-in-Training</strong><br>
+  Exploring creative, ethical, and impactful uses of technology.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salmalilad&label=Profile+Visits&color=ff4d4d&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/From-Minnesota-7f2aff?style=flat-square"/>
+</p>
+
+---
+
+### 💻 About Me
+Hi! I’m **Saanvi**, a high school student from Minnesota passionate about **AI, Machine Learning, and Computer Science**.  
+I love building projects that bridge creativity with impact — from scraping real-world data to developing AI-driven solutions.  
+
+- 🧠 Currently exploring **Applied AI & Engineering** through the MIT Beaver Works program  
+- 🐍 Experienced with **Python**, **Java**, and **Mathematica**  
+- 🧩 Interested in **ethical technology**, **quantum computing**, and **AI for education**  
+- ❄️ Outside of tech: figure skating, percussion, and community outreach  
+
+---
+
+### 🚀 Featured Projects
+| Project | Description |
+|----------|--------------|
+| 💻 [**CampQuest AI**](https://github.com/SalmaLilad/CampQuest) | AI-powered camp finder that scrapes and organizes enrichment programs nationwide using Python, Pandas, and Llama-3. |
+| 🚓 [**Police Search Bias ML**](https://github.com/SalmaLilad/Police-Search-ML) | Machine learning model analyzing fairness and predictive bias in police search data. |
+| 🧠 [**Machine Learning Repo**](https://github.com/SalmaLilad/Machine-Learning) | Central hub of ML projects: classification, clustering, and visualization. |
+| 🍕 [**Pizza Ordering App**](https://github.com/SalmaLilad/Pizza-Ordering-Project) | Tkinter GUI app simulating an order system with dynamic pricing logic. |
+
+---
+
+### 🧩 Skills & Tools
+**Languages:** Python, Java, Wolfram, Bash  
+**Frameworks:** Pandas, NumPy, Matplotlib, BeautifulSoup, Flask  
+**Tools:** GitHub, Jupyter, VSCode, Replit, Canva, Tableau  
+**Web:** HTML, CSS, JavaScript  
+**Focus Areas:** Data Science, AI Ethics, Web Automation, Visualization  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salmalilad&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmalilad&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🏆 Badges & Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/edX-CS50P%20Python-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/U%20of%20Michigan-Joy%20of%20Coding-maize?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MIT-BWSI%20Applied%20AI-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kode%20With%20Klossy-Data%20Science-pink?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wolfram-Summer%20Program-purple?style=flat-square"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+- 📧 **Email:** [saanvi.research@gmail.com](mailto:saanvi.research@gmail.com)  
+- 💻 **Portfolio:** [salmalilad.github.io](https://salmalilad.github.io)  
+- 🔗 **LinkedIn:** [linkedin.com/in/saanvi--](https://www.linkedin.com/in/saanvi--)  
+- 🧠 **GitHub:** [github.com/SalmaLilad](https://github.com/SalmaLilad)
+
+---
+
+<p align="center">
+  <em>“Coding with Curiosity & Creativity.”</em><br>
+  © 2025 Saanvi
+</p>
 
 
 
-Welcome to my GitHub profile!  
-I'm a student exploring Computer Science, AI, and Machine Learning. This repository is part of my computer science and engineering learning portfolio.
-
-It contains the source code for my personal website, which showcases my projects, achievements, technical skills, and GitHub profile activity. It also contains repositories of the Machine Learning Projects like Covid 19 and Bias in Police search projects done at the University of Minnesota's Advanced AI and Machine Learning camp.  I have also included all the games and programs I have written in Java and Python and a few Machine Learning projects I have worked on.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=salmalilad&label=Profile+Visits&color=ff4d4d&style=flat-square)
 
