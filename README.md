@@ -77,17 +77,3 @@ I love building projects that bridge creativity with impact, from scraping real-
 </p>
 
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=salmalilad&label=Profile+Visits&color=ff4d4d&style=flat-square)
-
-## 🔬 Featured Projects
-- 💻 [CampQuest AI](https://github.com/SalmaLilad/CampQuest)
-- 🧠 [Machine Learning Repo](https://github.com/SalmaLilad/Machine-Learning)
-- 🚓 [Police Search Bias Prediction](https://github.com/SalmaLilad/Police-Search-ML)
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=salmalilad&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmalilad&layout=compact&theme=radical)
-
-
