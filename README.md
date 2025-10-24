@@ -40,7 +40,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 **Frameworks:** Pandas, NumPy, Matplotlib, BeautifulSoup, Flask  
 **Tools:** GitHub, Jupyter, VSCode, Replit, Canva, Tableau  
 **Web:** HTML, CSS, JavaScript  
-**Focus Areas:** Data Science, AI Ethics, Web Automation, Visualization  
+**Focus Areas:** Machine Learning, Data Science, AI Ethics, Web Automation, Visualization  
 
 ---
 
