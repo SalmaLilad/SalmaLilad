@@ -19,7 +19,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 - 🧠 Currently exploring **Applied AI & Engineering** through the MIT Beaver Works program  
 - 🐍 Experienced with **Python**, **Java**, and **Mathematica**  
 - 🧩 Interested in **ethical technology**, **quantum computing**, and **AI for education**  
-- ❄️ Outside of tech: figure skating, percussion, and community outreach  
+- ❄️ Outside of spreading the Joy of Coding I enjoy Figure Skating, percussion, and Fencing 
 
 ---
 
