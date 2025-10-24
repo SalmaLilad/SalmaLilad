@@ -30,7 +30,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 | 🚓 [**Police Search Bias ML**](https://github.com/SalmaLilad/Police-Search-ML) | Machine learning model analyzing fairness and predictive bias in police search data. |
 | 🧠 [**Machine Learning Repo**](https://github.com/SalmaLilad/Machine-Learning) | Central hub of ML projects: classification, clustering, and visualization. |
 | 🍕 [**Pizza Ordering App**](https://github.com/SalmaLilad/Pizza-Ordering-Project) | Tkinter GUI app simulating an order system with dynamic pricing logic. |
-
+| 🦠 [**COVID-19 Chest X-Ray Classification**] (https://github.com/SalmaLilad/Covid19-ML-Project) | Deep learning model using PyTorch to classify chest X-rays into COVID and non-COVID categories. F
 ---
 
 ### 🧩 Skills & Tools
