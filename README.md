@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Saanvi</h1>
+<h1 align="center">Hi there , I'm Saanvi</h1>
 <p align="center">
   <strong>Student | AI & Machine Learning Enthusiast | Researcher-in-Training</strong><br>
   Exploring creative, ethical, and impactful uses of technology.
@@ -12,30 +12,30 @@
 
 ---
 
-### 💻 About Me
+###  About Me
 Hi! I’m **Saanvi**, a high school student from Minnesota passionate about **AI, Machine Learning, and Computer Science**.  
 I love building projects that bridge creativity with impact, from scraping real-world data to developing AI-driven solutions.  
 
-- 🧠 Currently exploring **Applied AI & Engineering** through the MIT Beaver Works program  
-- 🐍 Experienced with **Python**, **Java**, and **Mathematica**  
-- 🧩 Interested in **machine learning**, **ethical technology**, **quantum computing**, and **AI for education**  
-- ❄️ Outside of technology and spreading the Joy of Coding I enjoy Figure Skating, Fencing and playing the Marimba
+-  Currently exploring **Applied AI & Engineering** through the MIT Beaver Works program  
+-  Experienced with **Python**, **Java**, and **Mathematica**  
+-  Interested in **machine learning**, **ethical technology**, **quantum computing**, and **AI for education**  
+-  Outside of technology and spreading the Joy of Coding I enjoy Figure Skating, Fencing and playing the Marimba
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 | Project | Description |
 |----------|--------------|
-| 💻 [**CampQuest AI**](https://github.com/SalmaLilad/CampQuest) | AI-powered camp finder that scrapes and organizes enrichment programs nationwide using Python, Pandas, and Llama-3. |
-| 🚓 [**Police Search Bias ML**](https://github.com/SalmaLilad/Police-Search-ML) | Machine learning model analyzing fairness and predictive bias in police search data. |
-| 🧠 [**Machine Learning Repo**](https://github.com/SalmaLilad/Machine-Learning) | Central hub of ML projects: classification, clustering, and visualization. |
-| 🦠 [**COVID-19 Chest X-Ray Classification**](https://github.com/SalmaLilad/Covid19-ML-Project) | Deep learning model using PyTorch to classify chest X-rays into COVID and non-COVID categories. |
-| 🍕 [**Pizza Ordering App**](https://github.com/SalmaLilad/Pizza-Ordering-Project) | Tkinter GUI app simulating an order system with dynamic pricing logic. |
+|  [**CampQuest AI**](https://github.com/SalmaLilad/CampQuest) | AI-powered camp finder that scrapes and organizes enrichment programs nationwide using Python, Pandas, and Llama-3. |
+|  [**Police Search Bias ML**](https://github.com/SalmaLilad/Police-Search-ML) | Machine learning model analyzing fairness and predictive bias in police search data. |
+|  [**Machine Learning Repo**](https://github.com/SalmaLilad/Machine-Learning) | Central hub of ML projects: classification, clustering, and visualization. |
+|  [**COVID-19 Chest X-Ray Classification**](https://github.com/SalmaLilad/Covid19-ML-Project) | Deep learning model using PyTorch to classify chest X-rays into COVID and non-COVID categories. |
+|  [**Pizza Ordering App**](https://github.com/SalmaLilad/Pizza-Ordering-Project) | Tkinter GUI app simulating an order system with dynamic pricing logic. |
 
 
 ---
 
-### 🧩 Skills & Tools
+###  Skills & Tools
 **Languages:** Python, Java, Wolfram, Bash  
 **Frameworks:** Pandas, NumPy, Matplotlib, BeautifulSoup, Flask  
 **Tools:** GitHub, Jupyter, VSCode, Replit, Canva, Tableau  
@@ -44,7 +44,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salmalilad&show_icons=true&theme=radical&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmalilad&layout=compact&theme=radical&hide_border=true" height="165"/>
@@ -52,7 +52,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 ---
 
-### 🏆 Badges & Certifications
+###  Badges & Certifications
 <p align="center">
   <img src="https://img.shields.io/badge/edX-CS50P%20Python-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/U%20of%20Michigan-Joy%20of%20Coding-maize?style=flat-square"/>
@@ -63,11 +63,11 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 ---
 
-### 🌐 Connect with Me
-- 📧 **Email:** [saanvi.research@gmail.com](mailto:saanvi.research@gmail.com)  
-- 💻 **Portfolio:** [salmalilad.github.io](https://salmalilad.github.io)  
-- 🔗 **LinkedIn:** [linkedin.com/in/saanvi--](https://www.linkedin.com/in/saanvi--)  
-- 🧠 **GitHub:** [github.com/SalmaLilad](https://github.com/SalmaLilad)
+###  Connect with Me
+-  **Email:** [saanvi.research@gmail.com](mailto:saanvi.research@gmail.com)  
+-  **Portfolio:** [salmalilad.github.io](https://salmalilad.github.io)  
+-  **LinkedIn:** [linkedin.com/in/saanvi--](https://www.linkedin.com/in/saanvi--)  
+-  **GitHub:** [github.com/SalmaLilad](https://github.com/SalmaLilad)
 
 ---
 
