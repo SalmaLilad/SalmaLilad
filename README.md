@@ -14,7 +14,7 @@
 
 ### 💻 About Me
 Hi! I’m **Saanvi**, a high school student from Minnesota passionate about **AI, Machine Learning, and Computer Science**.  
-I love building projects that bridge creativity with impact — from scraping real-world data to developing AI-driven solutions.  
+I love building projects that bridge creativity with impact, from scraping real-world data to developing AI-driven solutions.  
 
 - 🧠 Currently exploring **Applied AI & Engineering** through the MIT Beaver Works program  
 - 🐍 Experienced with **Python**, **Java**, and **Mathematica**  
