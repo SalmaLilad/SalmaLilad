@@ -65,7 +65,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 ###  Connect with Me
 -  **Email:** [saanvi.research@gmail.com](mailto:saanvi.research@gmail.com)  
--  **Portfolio:** [salmalilad.github.io](https://salmalilad.github.io)  
+-  **Profile:** [salmalilad.github.io/Profile](https://salmalilad.github.io/Profile)  
 -  **LinkedIn:** [linkedin.com/in/saanvi--](https://www.linkedin.com/in/saanvi--)  
 -  **GitHub:** [github.com/SalmaLilad](https://github.com/SalmaLilad)
 
