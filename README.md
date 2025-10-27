@@ -39,7 +39,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 **Languages:** Python, Java, Wolfram, Bash  
 **Frameworks & Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, BeautifulSoup, Flask, Tkinter  
 **Platform:** GitHub, Jupyter, VSCode, Tableau, Replit  
-**Database:** MySQL 
+**Database:** MySQL   
 **Web:** HTML, CSS, JavaScript    
 **Tools:** Tableau, Git, Pixlr, LaTeX, Canva   
 
