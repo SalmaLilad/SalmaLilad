@@ -22,6 +22,13 @@ I love building projects that bridge creativity with impact, from scraping real-
 -  Outside of technology and spreading the Joy of Coding I enjoy Figure Skating, Fencing and playing the Marimba
 
 ---
+# 🚀 Latest Venture: Code Unity
+**Co-Founder | Launching Jan 2026**
+* **Mission:** Making CS accessible by teaching "Coding through Art" to middle schoolers.
+* **Curriculum:** Python Turtle Graphics.
+* **Status:** First cohort of **15 students** successfully recruited!
+
+---
 
 ###  Featured Projects
 | Project | Description |
@@ -45,13 +52,6 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 **Focus Areas:** Machine Learning, Data Science, AI Ethics, Web Automation, Visualization  
 
----
-
-### Latest Venture: Code Unity
-**Co-Founder | Launching Jan 2026**
-* **Mission:** Making CS accessible by teaching "Coding through Art" to middle schoolers.
-* **Curriculum:** Python Turtle Graphics.
-* **Status:** First cohort of **15 students** successfully recruited!
 
 ---
 
