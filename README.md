@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , I'm Saanvi</h1>
+i7<h1 align="center">Hi there , I'm Saanvi</h1>
 <p align="center">
   <strong>High School Student | Aspiring Applied AI & Machine Learning Engineer | Researcher-in-Training</strong><br>
   Exploring creative, ethical, and impactful uses of technology.
@@ -64,8 +64,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 ---
 
 ###  Badges & Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/edX-CS50P%20Python-blue?style=flat-square"/>
+
   <img src="https://img.shields.io/badge/U%20of%20Michigan-Joy%20of%20Coding-maize?style=flat-square"/>
   <img src="https://img.shields.io/badge/MIT-BWSI%20Applied%20AI-red?style=flat-square"/>
   <img src="https://img.shields.io/badge/Kode%20With%20Klossy-Data%20Science-pink?style=flat-square"/>
