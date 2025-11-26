@@ -1,4 +1,4 @@
-i7<h1 align="center">Hi there , I'm Saanvi</h1>
+<h1 align="center">Hi there , I'm Saanvi</h1>
 <p align="center">
   <strong>High School Student | Aspiring Applied AI & Machine Learning Engineer | Researcher-in-Training</strong><br>
   Exploring creative, ethical, and impactful uses of technology.
