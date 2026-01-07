@@ -23,7 +23,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 ---
 ### Latest Venture: Code Unity
-**Co-Founder | Launching Jan 2026**
+**Co-Founder | Launching Jan 24, 2026**
 * **Mission:** Making CS accessible by teaching "Coding through Art" to middle schoolers.
 * **Curriculum:** Python Turtle Graphics.
 * **Status:** First cohort of **15 students** successfully recruited!
