@@ -33,7 +33,6 @@ I love building projects that bridge creativity with impact, from scraping real-
 ###  Featured Projects
 | Project | Description |
 |----------|--------------|
-
 |  [**ColoScreen AI**](https://github.com/SalmaLilad/ColoScreen) |Medical AI pipeline leveraging Generative AI (Stable Diffusion) and Bayesian inference to detect GI pathologies from 500k synthetic images.  |
 |  [**CampQuest AI**](https://github.com/SalmaLilad/CampQuest) | AI-powered camp finder that scrapes and organizes enrichment programs nationwide using Python, Pandas, and Llama-3. |
 |  [**Police Search Bias ML**](https://github.com/SalmaLilad/Police-Search-ML) | Machine learning model analyzing fairness and predictive bias in police search data. |
