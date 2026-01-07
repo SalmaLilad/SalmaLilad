@@ -66,8 +66,9 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 ###  Badges & Certifications
 
-  <img src="https://img.shields.io/badge/U%20of%20Michigan-Joy%20of%20Coding-maize?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MIT-BWSI%20Applied%20AI-red?style=flat-square"/>
+   <img src="https://img.shields.io/badge/MIT-BWSI%20Applied%20AI-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Harvard-CS50P%20Python-A51C30?style=flat-square"/>
+   <img src="https://img.shields.io/badge/U%20of%20Michigan-Joy%20of%20Coding-maize?style=flat-square"/>
   <img src="https://img.shields.io/badge/Kode%20With%20Klossy-Data%20Science-pink?style=flat-square"/>
   <img src="https://img.shields.io/badge/Wolfram-Summer%20Program-purple?style=flat-square"/>
 </p>
