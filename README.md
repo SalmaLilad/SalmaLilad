@@ -73,7 +73,7 @@ I love building projects that bridge creativity with impact, from scraping real-
   <img src="https://img.shields.io/badge/Wolfram-Summer%20Program-purple?style=flat-square"/>
 </p>
 
----
+
 
 ###  Connect with Me
 -  **Email:** [saanvi.research@gmail.com](mailto:saanvi.research@gmail.com)  
