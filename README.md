@@ -44,16 +44,6 @@ I love building projects that bridge creativity with impact, from scraping real-
 ---
 
 ###  Skills & Tools
-Languages: 
-ML/AI: PyTorch, Scikit-learn, Pandas, NumPy,
-Web: Flask, BeautifulSoup, DuckDuckGo API
-Data & Viz: Matplotlib, Tableau, Jupyter
- 
-
-Focus Areas
-M
-
-
 
 **Languages:** Python, Java, Bash, SQL, Wolfram, HTML/CSS/JavaScript
 **ML/AI:** PyTorch, Scikit-learn, Pandas, NumPy,  OpenCV, PIL
