@@ -62,7 +62,9 @@ I love building projects that bridge creativity with impact, from scraping real-
   <img src="https://github-readme-stats-phi-nine-57.vercel.app/api/top-langs/?username=SalmaLilad&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 <div style="text-align:center; margin-top:2rem;">
- ---
+
+  
+  ---
 
 ###  Badges & Certifications
 
