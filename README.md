@@ -45,6 +45,9 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 ###  Skills & Tools
 
+
+**Focus Areas:** Medical Imaging AI • Deep Learning (CNNs, GANs) • Educational Technology • AI Ethics • Web Automation • Computer Vision
+
 **Languages:** Python, Java, Bash, SQL, Wolfram, HTML/CSS/JavaScript
 
 **ML/AI:** PyTorch, Scikit-learn, Pandas, NumPy, Albumentations,  OpenCV, PIL
@@ -61,9 +64,6 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 **Specialized:** RawTherapee (color calibration), LaTeX, X-Rite ColorChecker
 
-
-
-**Focus Areas:** Medical Imaging AI • Deep Learning (CNNs, GANs) • Educational Technology • AI Ethics • Web Automation • Computer Vision
 
 ---
 
