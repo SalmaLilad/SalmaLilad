@@ -44,15 +44,26 @@ I love building projects that bridge creativity with impact, from scraping real-
 ---
 
 ###  Skills & Tools
-**Languages:** Python, Java, Wolfram, Bash  
-**Frameworks & Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, BeautifulSoup, Flask, Tkinter  
-**Platform:** GitHub, Jupyter, VSCode, Tableau, Replit  
+Languages: 
+ML/AI: PyTorch, Scikit-learn, Pandas, NumPy,
+Web: Flask, BeautifulSoup, DuckDuckGo API
+Data & Viz: Matplotlib, Tableau, Jupyter
+ 
+
+Focus Areas
+M
+
+
+
+**Languages:** Python, Java, Bash, SQL, Wolfram, HTML/CSS/JavaScript  
+**ML/AI:** PyTorch, Scikit-learn, Pandas, NumPy,  OpenCV, PIL
+**Web:** Flask, BeautifulSoup, DuckDuckGo API
+**Data & Viz:** Matplotlib, Tableau, Jupyter
+**Infrastructure:** Git/GitHub, AWS EC2, Kaggle, Google Cloud, VSCode
 **Database:** MySQL   
-**Web:** HTML, CSS, JavaScript    
-**Tools:** Tableau, Git, Pixlr, LaTeX, Canva   
+**Specialized:** RawTherapee (color calibration), LaTeX, X-Rite ColorChecker
 
-**Focus Areas:** Machine Learning, Data Science, AI Ethics, Web Automation, Visualization  
-
+**Focus Areas:** Medical Imaging AI • Deep Learning (CNNs, GANs) • Educational Technology • AI Ethics • Web Automation • Computer Vision
 
 ---
 
