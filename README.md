@@ -46,11 +46,17 @@ I love building projects that bridge creativity with impact, from scraping real-
 ###  Skills & Tools
 
 **Languages:** Python, Java, Bash, SQL, Wolfram, HTML/CSS/JavaScript
+
 **ML/AI:** PyTorch, Scikit-learn, Pandas, NumPy,  OpenCV, PIL
+
 **Web:** Flask, BeautifulSoup, DuckDuckGo API
+
 **Data & Viz:** Matplotlib, Tableau, Jupyter
+
 **Infrastructure:** Git/GitHub, AWS EC2, Kaggle, Google Cloud, VSCode
+
 **Database:** MySQL
+
 **Specialized:** RawTherapee (color calibration), LaTeX, X-Rite ColorChecker
 
 **Focus Areas:** Medical Imaging AI • Deep Learning (CNNs, GANs) • Educational Technology • AI Ethics • Web Automation • Computer Vision
