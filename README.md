@@ -47,7 +47,9 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 **Languages:** Python, Java, Bash, SQL, Wolfram, HTML/CSS/JavaScript
 
-**ML/AI:** PyTorch, Scikit-learn, Pandas, NumPy,  OpenCV, PIL
+**ML/AI:** PyTorch, Scikit-learn, Pandas, NumPy, Albumentations,  OpenCV, PIL
+
+**Generative AI:** ComfyUI, Juggernaut XL, LoRA Training, ControlNet
 
 **Web:** Flask, BeautifulSoup, DuckDuckGo API
 
