@@ -62,6 +62,48 @@ I love building projects that bridge creativity with impact, from scraping real-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmalilad&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 <div style="text-align:center; margin-top:2rem;">
+
+<!-- ===== GITHUB PROFILE & STATS ===== -->
+<section id="githubstat">
+  <h2>GitHub Profile & Stats</h2>
+  
+   <!--  Language Stats -->
+    
+    <div style="text-align:center; margin-top:2rem;">
+   
+    <img
+
+      <div class="github-stats-row">
+    <img
+  src="https://github-readme-stats-phi-nine-57.vercel.app/api?username=SalmaLilad&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&theme=radical&hide=issues,prs"
+  alt="GitHub Stats"
+  class="github-stat-card"
+ *** style="max-width:90%;border-radius:8px;"
+ >
+
+<img
+  src="https://github-readme-stats-phi-nine-57.vercel.app/api/top-langs/?username=SalmaLilad&layout=compact&langs_count=8&theme=radical&hide=html,css"
+  alt="Top Languages"
+  class="github-stat-card"
+  ***style="max-width:90%;border-radius:8px;height:165px;margin-top:1rem;"
+>
+
+</div>
+
+<div style="text-align:center;margin-top:1rem;">
+  
+<img
+    src="https://komarev.com/ghpvc/?username=SalmaLilad&style=flat-square&color=ff4d4d"
+    alt="Profile Views"
+  >
+
+</div>
+
+
+</section>
+
+
+
    
  ---
 
