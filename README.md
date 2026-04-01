@@ -56,7 +56,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 **Web:** Flask, BeautifulSoup, DuckDuckGo API
 
-**Data & Viz:** Matplotlib, Tableau, Jupyter
+**Data & Viz:** Matplotlib, Tableau, Jupyter, Seaborn
 
 **Infrastructure:** Git/GitHub, AWS EC2, Kaggle, Google Cloud, VSCode
 
