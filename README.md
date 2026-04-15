@@ -16,7 +16,7 @@
 Hi! I’m **Saanvi**, a high school student from Minnesota passionate about **AI, Machine Learning, and Computer Science**.  
 I love building projects that bridge creativity with impact, from scraping real-world data to developing AI-driven solutions.  
 
--  Currently exploring **Applied AI & Engineering** through the MIT Beaver Works program  
+-  Currently exploring **Applied AI & Engineering** and **Computational Problem Solving Advanced Track** through the MIT Beaver Works program  
 -  Experienced with **Python**, **Java**, and **Wolfram**  
 -  Interested in **Machine Learning**, **Ethical Technology**, **Quantum Computing**, **Cybersecurity** and **AI for Education**  
 -  Outside of technology and spreading the Joy of Coding I enjoy Figure Skating, Fencing and playing the Marimba
