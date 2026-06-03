@@ -36,7 +36,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 |  [**ColoScreen**](https://github.com/SalmaLilad/ColoScreen) |Medical AI pipeline leveraging Generative AI (Stable Diffusion) and Bayesian inference to detect GI pathologies from 300k synthetic images.  |
 |  [**CampQuest**](https://github.com/SalmaLilad/CampQuest) | AI-powered camp finder that scrapes and organizes enrichment programs nationwide using Python, Pandas, and Llama-3. |
 |  [**COVID-19 Chest X-Ray Classification**](https://github.com/SalmaLilad/Covid19-ML-Project) | Deep learning model using PyTorch to classify chest X-rays into COVID and non-COVID categories. |
-|  [**Stellar Disk Kinematics of the Andromeda Galaxy**](https://github.com/SalmaLilad/UCSC-PYaR-Research) | Studied the red and blue shifts and computed the stellar disk kinematics of the stars in the Anromeda Galaxy at UCS Python and Research program. |
+|  [**Stellar Disk Kinematics of the Andromeda Galaxy**](https://github.com/SalmaLilad/UCSC-PYaR-Research) | Studied the red and blue shifts and computed the stellar disk kinematics of the stars in the Anromeda Galaxy at UCSC Python and Research program. |
 |  [**Police Search Bias**](https://github.com/SalmaLilad/Police-Search-ML) | Machine learning model analyzing fairness and predictive bias in police search data. |
 |  [**Machine Learning Repo**](https://github.com/SalmaLilad/Machine-Learning) | Central hub of ML projects: classification, clustering, and visualization. |
 
