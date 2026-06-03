@@ -58,7 +58,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 
 **Data & Viz:** Matplotlib, Tableau, Jupyter, Seaborn
 
-**Infrastructure:** Git/GitHub, AWS EC2, Kaggle, Google Cloud, VSCode
+**Infrastructure:** Git/GitHub, Kaggle, Google Cloud, VSCode
 
 **Database:** MySQL
 
