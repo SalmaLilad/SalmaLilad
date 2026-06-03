@@ -45,7 +45,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 ###  Skills & Tools
 
 
-**Focus Areas:** Medical Imaging AI • Deep Learning (CNNs, GANs) • Educational Technology • AI Ethics • Web Automation • Computer Vision
+**Focus Areas:** Medical Imaging AI • Deep Learning (CNNs, Stable Diffusion) • Educational Technology • AI Ethics • Web Automation • Computer Vision
 
 **Languages:** Python, Java, Bash, Wolfram, HTML/CSS/JavaScript
 
