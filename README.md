@@ -26,7 +26,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 **Co-Founder | Launched Jan 26, 2026**
 * **Mission:** Making CS accessible by teaching "Coding through Art" to middle schoolers.
 * **Curriculum:** Python Turtle Graphics.
-* **Status:** First cohort of **30 students** successfully recruited!
+* **Status:** First cohort of **70 students** successfully recruited, as well as a partnership and new sponsor with **MIT's Beaver Works**
 
 ---
 
