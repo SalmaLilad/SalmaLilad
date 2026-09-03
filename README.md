@@ -85,14 +85,6 @@ Applied Engineering & AI + Computational Problem Solving (Advanced Track)
 ---
 
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-saanvi-projects.vercel.app/api?username=SalmaLilad&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-saanvi-projects.vercel.app/api/top-langs/?username=SalmaLilad&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,css" height="165"/>
-</p>
----
-
 ### Connect with Me
 
 - **Email:** [saanvi.research@gmail.com](mailto:saanvi.research@gmail.com)
