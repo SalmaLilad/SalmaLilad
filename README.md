@@ -39,7 +39,7 @@ I’m **Saanvi Rangarajan**, a high school sophomore from Minnesota developing *
 
 ### Leadership & Outreach
 
-**[CodeUnity](https://github.com/LashikaKapoor28/CodeUnityWebsite)** — Co-Founder & Lead Instructor  
+**[CodeUnity](https://codeunity.org)** — Co-Founder & Lead Instructor  
 Making computer science accessible by teaching “Coding through Art & Apps” to middle schoolers.  
 - 70+ students across 7 states and 3 countries  
 - Sponsored by **MIT Beaver Works Summer Institute**
