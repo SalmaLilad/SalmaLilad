@@ -22,7 +22,7 @@ I love building projects that bridge creativity with impact, from scraping real-
 -  Outside of technology and spreading the Joy of Coding I enjoy Figure Skating, Fencing and playing the Marimba
 
 ---
-### Latest Venture: Code Unity
+### Leadership & Outreach: Code Unity
 **Co-Founder | Launched Jan 26, 2026**
 * **Mission:** Making CS accessible by teaching "Coding through Art" to middle schoolers.
 * **Curriculum:** Python Turtle Graphics.
