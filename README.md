@@ -9,6 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=salmalilad&label=Profile+Visits&color=ff4d4d&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/From-Minnesota-7f2aff?style=flat-square"/>
   <img src="https://img.shields.io/badge/Stanford%20AIMI-1st%20Place-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MIT Jameel Clinic Hackathon-1st%20Place-green?style=flat-square"/>
 </p>
 
 ---
