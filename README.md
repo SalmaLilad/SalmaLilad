@@ -84,34 +84,6 @@ Applied Engineering & AI + Computational Problem Solving (Advanced Track)
 
 ---
 
-    <!-- Language Stats -->
-    <div style="text-align:center; margin-top:2rem;">
-      <div class="github-stats-row">
-        <img
-          src="https://github-readme-stats-phi-nine-57.vercel.app/api/top-langs/?username=SalmaLilad&layout=compact&langs_count=8&theme=radical&hide=html,css,mako"
-          alt="GitHub Stats"
-          class="github-stat-card"
-        >
-        <img
-          src="https://github-readme-stats-phi-nine-57.vercel.app/api/top-langs/?username=SalmaLilad&layout=compact&langs_count=8&theme=radical&hide=html,css"
-          alt="Top Languages"
-          class="github-stat-card"
-        >
-      </div>
-
-      <div style="text-align:center; margin-top:1rem;">
-        <img
-          src="https://komarev.com/ghpvc/?username=SalmaLilad&style=flat-square&color=ff4d4d"
-          alt="Profile Views"
-        >
-      </div>
-    </div>
-  </section>
-
-
-
-
-
 ### GitHub Stats
 
 <p align="center">
