@@ -1,103 +1,109 @@
-<h1 align="center">Hi there , I'm Saanvi</h1>
+<h1 align="center">Hi, I'm Saanvi 👋</h1>
+
 <p align="center">
-  <strong>High School Student | Aspiring Applied AI & Machine Learning Engineer | Researcher-in-Training</strong><br>
-  Exploring creative, ethical, and impactful uses of technology.
+  <strong>High School Researcher | Applied AI & Medical Imaging</strong><br>
+  Building robust, uncertainty-aware machine learning systems for diagnostic medicine and real-world impact.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salmalilad&label=Profile+Visits&color=ff4d4d&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Medical%20Imaging%20AI-red?style=flat-square"/>
   <img src="https://img.shields.io/badge/From-Minnesota-7f2aff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Stanford%20AIMI-1st%20Place-blue?style=flat-square"/>
 </p>
 
 ---
 
-###  About Me
-Hi! I’m **Saanvi**, a high school student from Minnesota passionate about **AI, Machine Learning, and Computer Science**.  
-I love building projects that bridge creativity with impact, from scraping real-world data to developing AI-driven solutions.  
+### About Me
 
--  Currently exploring **Applied AI & Engineering** and **Computational Problem Solving Advanced Track** through the MIT Beaver Works program  
--  Experienced with **Python**, **Java**, **C++** and **Wolfram**  
--  Interested in **Machine Learning**, **Ethical Technology**, **Quantum Computing**, **Cybersecurity** and **AI for Education**  
--  Outside of technology and spreading the Joy of Coding I enjoy Figure Skating, Fencing and playing the Marimba
+I’m **Saanvi Rangarajan**, a high school sophomore from Minnesota developing **uncertainty-aware** and **multimodal** machine learning models for medical imaging and diagnostic medicine. I care deeply about building systems that are not only accurate, but also reliable, interpretable, and ready for real clinical environments.
 
----
-### Leadership & Outreach: Code Unity
-**Co-Founder | Launched Jan 26, 2026**
-* **Mission:** Making CS accessible by teaching "Coding through Art" to middle schoolers.
-* **Curriculum:** Python Turtle Graphics.
-* **Status:** Instructed **70+ students** successfully, as well as a partnership and new sponsor with **MIT's Beaver Works**
+- **Stanford AIMI High School Internship** — 1st Place (Perfect Methodology Score) for multimodal pneumonia detection and localization
+- Researching generative AI + Bayesian CNNs for early triage of visible rectal bleeding (**ColoScreen**)
+- Extending uncertainty quantification methods from medical imaging to safety-critical industrial sensing (nuclear reactor sensors)
+- Co-founder of **CodeUnity**, teaching free CS to 70+ underrepresented middle-school students across 7 states and 3 countries
 
 ---
 
-###  Featured Projects
-| Project | Description |
-|----------|--------------|
-|  [**ColoScreen**](https://github.com/SalmaLilad/ColoScreen) |Medical AI pipeline leveraging Generative AI (Stable Diffusion) and Bayesian inference to detect GI pathologies from 300k synthetic images.  |
-|  [**CampQuest**](https://github.com/SalmaLilad/CampQuest) | AI-powered camp finder that scrapes and organizes enrichment programs nationwide using Python, Pandas, and Llama-3. |
-|  [**COVID-19 Chest X-Ray Classification**](https://github.com/SalmaLilad/Covid19-ML-Project) | Deep learning model using PyTorch to classify chest X-rays into COVID and non-COVID categories. |
-|  [**Stellar Disk Kinematics of the Andromeda Galaxy**](https://github.com/SalmaLilad/UCSC-PYaR-Research) | Studied the red and blue shifts and computed the stellar disk kinematics of the stars in the Anromeda Galaxy at UCSC Python and Research program (PyAR). |
-|  [**Police Search Bias**](https://github.com/SalmaLilad/Police-Search-ML) | Machine learning model analyzing fairness and predictive bias in police search data. |
-|  [**Machine Learning Repo**](https://github.com/SalmaLilad/Machine-Learning) | Central hub of ML projects: classification, clustering, and visualization. |
+### Research Highlights
+
+| Project | Description | Key Result |
+|---------|-------------|------------|
+| **[PneumonAI](https://github.com/SalmaLilad)** (Stanford AIMI) | Multimodal pneumonia classifier (DenseNet-121 + ClinicalBERT late fusion) + Fast R-CNN localization + Grad-CAM + Bayesian CNN | **1st Place**, Swin-Tiny AUC **0.862**, multimodal accuracy up to **93%** |
+| **[ColoScreen](https://github.com/SalmaLilad/ColoScreen)** | Generative AI pipeline (Stable Diffusion + LoRA) creating 500k+ synthetic images + MobileNetV3 + Bayesian CNN for uncertainty-aware triage | Domain-shift robust classification across 45 substrates & 96 blood morphologies |
+| **Nuclear Sensor Failure Prediction** | Uncertainty-aware bidirectional LSTM + Monte Carlo Dropout on 20-channel multivariate time series | Calibrated uncertainty for early failure prediction in safety-critical systems |
+| **CampQuest** | AI-powered enrichment discovery platform using Llama 3 + DuckDuckGo scraping | 1,200+ programs standardized; featured in UMN CSE press release |
 
 ---
 
-###  Skills & Tools
+### Leadership & Outreach
 
+**CodeUnity** — Co-Founder & Lead Instructor  
+Making computer science accessible by teaching “Coding through Art” to middle schoolers.  
+- 70+ students across 7 states and 3 countries  
+- Sponsored by **MIT Beaver Works Summer Institute**
 
-**Focus Areas:** Medical Imaging AI • Deep Learning (CNNs, Stable Diffusion) • Educational Technology • AI Ethics • Web Automation • Computer Vision
-
-**Languages:** Python, Java, Bash, Wolfram, HTML/CSS/JavaScript
-
-**ML/AI:** PyTorch, Scikit-learn, Pandas, NumPy, Albumentations,  OpenCV, PIL
-
-**Generative AI:** ComfyUI, Juggernaut XL, LoRA Training, ControlNet
-
-**Web:** Flask, BeautifulSoup, DuckDuckGo API
-
-**Data & Viz:** Matplotlib, Tableau, Jupyter, Seaborn
-
-**Infrastructure:** Git/GitHub, Kaggle, Google Cloud, VSCode
-
-**Database:** MySQL
-
-**Specialized:** RawTherapee (color calibration), LaTeX, X-Rite ColorChecker
-
+**University of Minnesota Summer Computing Academy**  
+Instructor & Teaching Assistant under Prof. Maria Gini — delivered Python lectures and mentored students through end-to-end projects.
 
 ---
 
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-phi-nine-57.vercel.app/api?username=SalmaLilad&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-phi-nine-57.vercel.app/api/top-langs/?username=SalmaLilad&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-<div style="text-align:center; margin-top:2rem;">
+### Skills & Tools
 
-  
-  ---
+**Focus Areas**  
+Medical Imaging AI • Uncertainty Quantification • Multimodal Learning • Domain Adaptation • Generative AI for Healthcare
 
-###  Badges & Certifications
+**Languages**  
+Python • C++ • Java • R • JavaScript/HTML/CSS • Wolfram
 
-   <img src="https://img.shields.io/badge/MIT-BWSI%20Applied%20AI-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Harvard-CS50P%20Python-A51C30?style=flat-square"/>
-   <img src="https://img.shields.io/badge/U%20of%20Michigan-Joy%20of%20Coding-maize?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Kode%20With%20Klossy-Data%20Science-pink?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Wolfram-Summer%20Program-purple?style=flat-square"/>
-</p>
+**ML / CV**  
+PyTorch • scikit-learn • OpenCV • Albumentations • Stable Diffusion • DenseNet • ResNet • Swin Transformer • Torchvision • Optuna
 
-
-
-###  Connect with Me
--  **Email:** [saanvi.research@gmail.com](mailto:saanvi.research@gmail.com)  
--  **Profile:** [salmalilad.github.io/Profile](https://salmalilad.github.io/Profile)  
--  **LinkedIn:** [linkedin.com/in/saanvi--](https://www.linkedin.com/in/saanvi--)  
--  **GitHub:** [github.com/SalmaLilad](https://github.com/SalmaLilad)
+**Other**  
+Git/GitHub • Supabase/PostgreSQL • Beautiful Soup • Pandas • NumPy • Tableau • Jupyter
 
 ---
+
+### Education & Selected Coursework
+
+**Wayzata High School** (Sophomore) — Weighted GPA: **4.25**  
+- AP Calculus BC (Exam Score: 5) • AP Computer Science A • Concurrent Enrollment C++ (A)  
+- **UMTYMP** (University of Minnesota Talented Youth Mathematics Program): Linear Algebra, Differential Equations → Multivariable Calculus → Discrete Math & Applied Linear Algebra  
+
+**MIT Beaver Works Summer Institute**  
+Applied Engineering & AI + Computational Problem Solving (Advanced Track)
+
+---
+
+### Selected Awards
+
+- **Stanford AIMI Research Competition** — 1st Place & Perfect Methodology Score (2026)
+- **MIT Jameel Clinic AI & Healthcare Hackathon** — 1st Place (2026)
+- Society of Women Engineers **SWENext STEM in Action Award** (1 of 25 nationally)
+- NCWIT Aspirations in Computing — Minnesota State Honorable Mention
+- Scholastic Art & Writing Awards (2 Silver Keys)
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <em>“Coding with Curiosity & Creativity.”</em><br>
-  © 2025 Saanvi
+  <img src="https://github-readme-stats.vercel.app/api?username=SalmaLilad&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaLilad&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
+---
 
+### Connect with Me
+
+- **Email:** [saanvi.research@gmail.com](mailto:saanvi.research@gmail.com)
+- **LinkedIn:** [linkedin.com/in/saanvirangarajan](https://www.linkedin.com/in/saanvirangarajan)
+- **GitHub:** [github.com/SalmaLilad](https://github.com/SalmaLilad)
+- **Personal Site:** [salmalilad.github.io/Profile](https://salmalilad.github.io/Profile)
+
+---
+
+<p align="center">
+  <em>“Building AI that clinicians can trust.”</em><br>
+  © 2026 Saanvi Rangarajan
+</p>
