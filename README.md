@@ -87,8 +87,9 @@ Applied Engineering & AI + Computational Problem Solving (Advanced Track)
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmaLilad&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaLilad&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salmalilad&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmalilad&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 </p>
 ---
 
