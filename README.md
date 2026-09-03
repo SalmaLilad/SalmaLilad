@@ -60,7 +60,7 @@ Python • C++ • Java • R • JavaScript/HTML/CSS • Wolfram
 PyTorch • scikit-learn • OpenCV • Albumentations • Stable Diffusion • DenseNet • ResNet • Swin Transformer • Torchvision • Optuna
 
 **Other**  
-Git/GitHub • Supabase/PostgreSQL • Beautiful Soup • Pandas • NumPy • Tableau • Jupyter
+Git/GitHub • Beautiful Soup • Pandas • NumPy • Tableau • Jupyter
 
 ---
 
