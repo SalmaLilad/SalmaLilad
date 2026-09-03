@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saanvi </h1>
+<h1 align="center">Hi, I'm Saanvi</h1>
 
 <p align="center">
   <strong>High School Researcher | Applied AI & Medical Imaging</strong><br>
