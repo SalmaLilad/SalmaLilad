@@ -30,7 +30,7 @@ I’m **Saanvi Rangarajan**, a high school sophomore from Minnesota developing *
 
 | Project | Description | Key Result |
 |---------|-------------|------------|
-| **[PneumonAI](https://github.com/SalmaLilad)** (Stanford AIMI) | Multimodal pneumonia classifier (DenseNet-121 + ClinicalBERT late fusion) + Fast R-CNN localization + Grad-CAM + Bayesian CNN | **1st Place**, Swin-Tiny AUC **0.862**, multimodal accuracy up to **93%** |
+| **[PneumonAI](https://github.com/PneumonAI)** (Stanford AIMI) | Multimodal pneumonia classifier (DenseNet-121 + ClinicalBERT late fusion) + Fast R-CNN localization + Grad-CAM + Bayesian CNN | **1st Place**, Swin-Tiny AUC **0.862**, multimodal accuracy up to **93%** |
 | **[ColoScreen](https://github.com/SalmaLilad/ColoScreen)** | Generative AI pipeline (Stable Diffusion + LoRA) creating 500k+ synthetic images + MobileNetV3 + Bayesian CNN for uncertainty-aware triage | Domain-shift robust classification across 45 substrates & 96 blood morphologies |
 | **Nuclear Sensor Failure Prediction** | Uncertainty-aware bidirectional LSTM + Monte Carlo Dropout on 20-channel multivariate time series | Calibrated uncertainty for early failure prediction in safety-critical systems |
 | **CampQuest** | AI-powered enrichment discovery platform using Llama 3 + DuckDuckGo scraping | 1,200+ programs standardized; featured in UMN CSE press release |
