@@ -83,52 +83,7 @@ Applied Engineering & AI + Computational Problem Solving (Advanced Track)
 - Scholastic Art & Writing Awards (2 Silver Keys)
 
 ---
-<!-- ===== GITHUB PROFILE & STATS ===== -->
-  <section id="githubstat">
-    <h2>GitHub Profile & Stats</h2>
 
-    <div style="text-align:center;">
-      <!-- ColoScreen -->
-      <h3 style="margin-top:1.5rem;">
-        <a href="https://github.com/SalmaLilad/ColoScreen" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:700;">
-           ColoScreen Repository
-        </a>
-      </h3>
-      <img class="github-badge" src="https://img.shields.io/github/last-commit/SalmaLilad/ColoScreen?color=ff4d4d&logo=github" alt="ColoScreen Last Commit">
-      <img class="github-badge" src="https://img.shields.io/github/commit-activity/m/SalmaLilad/ColoScreen?color=ff4d4d&logo=github" alt="ColoScreen Commit Activity">
-      <img class="github-badge" src="https://img.shields.io/github/stars/SalmaLilad/ColoScreen?style=social" alt="ColoScreen Stars">
-                  
-      <!-- Machine Learning -->
-      <h3 style="margin-top:1.5rem;">
-        <a href="https://github.com/SalmaLilad/Machine-Learning" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:700;">
-           Machine Learning Repository
-        </a>
-      </h3>
-      <img class="github-badge" src="https://img.shields.io/github/last-commit/SalmaLilad/Machine-Learning?color=ff4d4d&logo=github" alt="Machine Learning Last Commit">
-      <img class="github-badge" src="https://img.shields.io/github/commit-activity/m/SalmaLilad/Machine-Learning?color=ff4d4d&logo=github" alt="Machine Learning Commit Activity">
-      <img class="github-badge" src="https://img.shields.io/github/stars/SalmaLilad/Machine-Learning?style=social" alt="Machine Learning Stars">
-
-      <!-- Python Coding -->
-      <h3 style="margin-top:1.5rem;">
-        <a href="https://github.com/SalmaLilad/Python-Coding" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:700;">
-           Python Coding Repository
-        </a>
-      </h3>
-      <img class="github-badge" src="https://img.shields.io/github/last-commit/SalmaLilad/Python-Coding?color=ff4d4d&logo=github" alt="Python Coding Last Commit">
-      <img class="github-badge" src="https://img.shields.io/github/commit-activity/m/SalmaLilad/Python-Coding?color=ff4d4d&logo=github" alt="Python Coding Commit Activity">
-      <img class="github-badge" src="https://img.shields.io/github/stars/SalmaLilad/Python-Coding?style=social" alt="Python Coding Stars">
-
-      <!-- Java Coding -->
-      <h3 style="margin-top:1.5rem;">
-        <a href="https://github.com/SalmaLilad/Java-Coding" target="_blank" style="color:var(--accent);text-decoration:none;font-weight:700;">
-           Java Coding Repository
-        </a>
-      </h3>
-      <img class="github-badge" src="https://img.shields.io/github/last-commit/SalmaLilad/Java-Coding?color=ff4d4d&logo=github" alt="Java Coding Last Commit">
-      <img class="github-badge" src="https://img.shields.io/github/commit-activity/m/SalmaLilad/Java-Coding?color=ff4d4d&logo=github" alt="Java Coding Commit Activity">
-      <img class="github-badge" src="https://img.shields.io/github/stars/SalmaLilad/Java-Coding?style=social" alt="Java Coding Stars">
-
-      
     <!-- Language Stats -->
     <div style="text-align:center; margin-top:2rem;">
       <div class="github-stats-row">
