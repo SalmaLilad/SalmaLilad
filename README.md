@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=salmalilad&label=Profile+Visits&color=ff4d4d&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Focus-Medical%20Imaging%20AI-red?style=flat-square"/>
   <img src="https://img.shields.io/badge/From-Minnesota-7f2aff?style=flat-square"/>
   <img src="https://img.shields.io/badge/Stanford%20AIMI-1st%20Place-blue?style=flat-square"/>
 </p>
@@ -88,10 +87,9 @@ Applied Engineering & AI + Computational Problem Solving (Advanced Track)
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmaLilad&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaLilad&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SalmaLilad&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaLilad&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
 </p>
-
 ---
 
 ### Connect with Me
